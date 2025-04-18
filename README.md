@@ -32,7 +32,7 @@ A mood board app that allows users to keep track of moods and when they occurred
 ## Setup Instructions
 
 1. Before running the app, navigate to code -> app -> src -> main
-2) Open ChatBotActivity class replace line 59 with Azure Open AI API token provided in the Discord channel.
+2) Open ChatBotActivity class replace line 59 with your generated Azure Open AI API token provided [here](https://github.com/marketplace/models/azure-openai/gpt-4o/playground).
 
 
 
