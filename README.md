@@ -1,4 +1,4 @@
-# CMPUT 301 W25 - Team_Thirty_Six
+# VibeCheck
 
 ## Team Members
 
