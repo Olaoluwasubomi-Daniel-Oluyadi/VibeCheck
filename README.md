@@ -16,10 +16,18 @@
 A mood board app that allows users to keep track of moods and when they occurred
 
 ## Key Features
+### Sign up and Profile creation
+![image](https://github.com/user-attachments/assets/9a52e575-4322-4353-b4e4-598782c5f1f3)
 
-- [Feature 1]: Brief description
-- [Feature 2]: Brief description
-- [Feature 3]: Brief description
+### Share Moods
+![image](https://github.com/user-attachments/assets/008c8fa7-b0d7-4c8a-90ae-bb40c8a125e8)
+
+### View other peoples Moods
+![image](https://github.com/user-attachments/assets/5577ea05-602e-4e2d-a7d4-8e5754071d57)
+
+### View and filter your Mood History/Journal
+
+![image](https://github.com/user-attachments/assets/d6c9cd73-56f9-48aa-9240-cf7f4308bfb1)
 
 ## Setup Instructions
 
