@@ -1,4 +1,4 @@
-# VibeCheck
+# EmotiShare
 
 ## Team Members
 
